@@ -1,0 +1,926 @@
+Started GET "/" for ::1 at 2022-04-25 16:11:22 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 741)
+Completed 200 OK in 10ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 7000)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:17 -0400
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 634)
+Completed 200 OK in 6ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 5703)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:18 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 372)
+Completed 200 OK in 5ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 1249)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:20 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 299)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 297)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:32:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:07 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 371)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1240)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 293)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:20 -0400
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 634)
+Completed 200 OK in 5ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 5704)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 372)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 1249)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 299)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 297)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:34 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 372)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 1246)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:36 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 293)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:36 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:36 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:33:37 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:40:49 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 371)
+Completed 200 OK in 4ms (Views: 3.2ms | Allocations: 1237)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:16 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 290)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:17 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:18 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:19 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:19 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:19 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:43:19 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:06 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 371)
+Completed 200 OK in 4ms (Views: 2.7ms | Allocations: 1237)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:07 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 290)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:07 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:07 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 290)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:10 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:26 -0400
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.8ms | Allocations: 634)
+Completed 200 OK in 7ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 5703)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:27 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 372)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1249)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:27 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 294)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:27 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:27 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:28 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:28 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:46:56 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 372)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1246)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:07 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 372)
+Completed 200 OK in 5ms (Views: 3.3ms | Allocations: 1244)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:08 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 24)
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 295)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:09 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 2ms (Views: 0.8ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:09 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 289)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:20 -0400
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 634)
+Completed 200 OK in 5ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 5703)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 372)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1249)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:21 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 294)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-25 16:57:22 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/dschenck/.rvm/rubies/ruby-3.0.0/lib/ruby/gems/3.0.0/gems/railties-7.0.2.3/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 23)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for ::1 at 2022-04-26 10:53:24 -0400
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (uninitialized constant HomeController):
+  
+Started GET "/" for ::1 at 2022-04-26 10:54:43 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.5ms | Allocations: 124)
+  Rendered layout layouts/application.html.erb (Duration: 477.0ms | Allocations: 97130)
+Completed 200 OK in 484ms (Views: 478.4ms | Allocations: 100667)
+
+
+Started GET "/" for ::1 at 2022-04-26 10:55:38 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 9.1ms | Allocations: 13864)
+Completed 200 OK in 10ms (Views: 9.8ms | Allocations: 14634)
+
+
+Started GET "/" for ::1 at 2022-04-26 11:00:10 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 219)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 2777)
+Completed 200 OK in 11ms (Views: 10.0ms | Allocations: 3803)
+
+
+Started GET "/static/img/pizza-card.png" for ::1 at 2022-04-26 11:00:10 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:00:10 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/pizza-card.png"):
+  
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:00:10 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:02:31 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 2313)
+Completed 200 OK in 6ms (Views: 5.0ms | Allocations: 2631)
+
+
+Started GET "/static/img/pizza-card.png" for ::1 at 2022-04-26 11:02:31 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:02:31 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:02:31 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:02:32 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 4.1ms | Allocations: 2305)
+Completed 200 OK in 5ms (Views: 4.7ms | Allocations: 2623)
+
+
+Started GET "/static/img/pizza-card.png" for ::1 at 2022-04-26 11:02:32 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:02:32 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:02:32 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:03:05 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 2815)
+Completed 200 OK in 11ms (Views: 10.2ms | Allocations: 3842)
+
+
+Started GET "/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:03:06 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:03:06 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:03:06 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:03:27 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 215)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 2792)
+Completed 200 OK in 11ms (Views: 10.3ms | Allocations: 3820)
+
+
+Started GET "/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:03:27 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:03:27 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:03:27 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:03:37 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 2795)
+Completed 200 OK in 11ms (Views: 9.8ms | Allocations: 3823)
+
+
+Started GET "/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:03:37 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:03:37 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:03:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:03:56 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 5.7ms | Allocations: 2791)
+Completed 200 OK in 9ms (Views: 7.7ms | Allocations: 3820)
+
+
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:03:57 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:03:57 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:04:33 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.0ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 8.5ms | Allocations: 2801)
+Completed 200 OK in 12ms (Views: 11.1ms | Allocations: 3831)
+
+
+Started GET "/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:04:34 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:04:34 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:04:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:05:09 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 213)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 2804)
+Completed 200 OK in 10ms (Views: 9.0ms | Allocations: 3833)
+
+
+Started GET "/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:05:09 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:05:09 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:05:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:05:57 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.6ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 6.0ms | Allocations: 2805)
+Completed 200 OK in 9ms (Views: 7.9ms | Allocations: 3834)
+
+
+Started GET "/~/app/assets/images/pizza-card.png" for ::1 at 2022-04-26 11:05:57 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:05:57 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:05:57 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/~/app/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:07:33 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 214)
+  Rendered layout layouts/application.html.erb (Duration: 7.8ms | Allocations: 2805)
+Completed 200 OK in 12ms (Views: 10.4ms | Allocations: 3834)
+
+
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:07:33 -0400
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:07:33 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/assets/images/pizza-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:09:05 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1190)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | Allocations: 1270)
+Completed 500 Internal Server Error in 4ms (Allocations: 2281)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+        <title>Sandbox-Python (Flask)</title>
+
+        <!-- CSS only -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <h1 class="display-4">Welcome to Red Hat OpenShift</h1>
+    <p>The Developer Sandbox for Red Hat OpenShift allows you get free access to an OpenShift cluster for 30 days. Learn Kubernetes, experiment with microservics, or build a Proof of Concept for your organization.</p>
+    <p>Explore the following technologies and concepts using the Developer Sandbox Activities we've created:</p>
+                  
+    <div class="card-group">
+        <div class="card" style="width: 18rem;">
+            <%= image_tag "pizza-card.png", alt="Card image cap", class="card-img-top" %>
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="/static/img/petclinic-card.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p>Deploy a Java Application on Kubernetes in minutes</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="/static/img/kube-activity-card.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p>Learn Kubernetes</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+):
+1:    <!DOCTYPE html>
+2:    <html lang="en">
+3:    <head>
+4:        <meta charset="utf-8">
+5:        <meta name="viewport" content="width=device-width, initial-scale=1">
+6:        <meta name="description" content="">
+7:            <title>Sandbox-Python (Flask)</title>
+8:    
+9:            <!-- CSS only -->
+10:        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+11:    </head>
+12:    <body>
+13:        <h1 class="display-4">Welcome to Red Hat OpenShift</h1>
+14:        <p>The Developer Sandbox for Red Hat OpenShift allows you get free access to an OpenShift cluster for 30 days. Learn Kubernetes, experiment with microservics, or build a Proof of Concept for your organization.</p>
+15:        <p>Explore the following technologies and concepts using the Developer Sandbox Activities we've created:</p>
+16:                      
+17:        <div class="card-group">
+18:            <div class="card" style="width: 18rem;">
+19:                <%= image_tag "pizza-card.png", alt="Card image cap", class="card-img-top" %>
+20:                <div class="card-body">
+21:                    <h5 class="card-title">Activity</h5>
+22:                    <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
+23:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+24:                </div>
+25:            </div>
+26:            <div class="card" style="width: 18rem;">
+27:                <img class="card-img-top" src="/static/img/petclinic-card.png" alt="Card image cap">
+28:                <div class="card-body">
+29:                    <h5 class="card-title">Activity</h5>
+30:                    <p>Deploy a Java Application on Kubernetes in minutes</p>
+31:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+32:                </div>
+33:            </div>
+34:            <div class="card" style="width: 18rem;">
+35:                <img class="card-img-top" src="/static/img/kube-activity-card.png" alt="Card image cap">
+36:                <div class="card-body">
+37:                    <h5 class="card-title">Activity</h5>
+38:                    <p>Learn Kubernetes</p>
+39:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+40:                </div>
+41:            </div>
+42:        </div>
+43:        <!-- JavaScript Bundle with Popper -->
+44:        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+45:    </body>
+46:    </html>
+  
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+Started GET "/" for ::1 at 2022-04-26 11:09:35 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 38.6ms | Allocations: 23878)
+  Rendered layout layouts/application.html.erb (Duration: 41.8ms | Allocations: 26302)
+Completed 200 OK in 47ms (Views: 45.2ms | Allocations: 27329)
+
+
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:09:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:09:36 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:09:56 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 1.8ms | Allocations: 1173)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1253)
+Completed 500 Internal Server Error in 6ms (Allocations: 2247)
+
+
+  
+ActionView::SyntaxErrorInTemplate (Encountered a syntax error while rendering template: check <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+        <title>Sandbox-Python (Flask)</title>
+
+        <!-- CSS only -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <h1 class="display-4">Welcome to Red Hat OpenShift</h1>
+    <p>The Developer Sandbox for Red Hat OpenShift allows you get free access to an OpenShift cluster for 30 days. Learn Kubernetes, experiment with microservics, or build a Proof of Concept for your organization.</p>
+    <p>Explore the following technologies and concepts using the Developer Sandbox Activities we've created:</p>
+                  
+    <div class="card-group">
+        <div class="card" style="width: 18rem;">
+            <%= image_tag "pizza-card.png", class="card-img-top" %>
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="/static/img/petclinic-card.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p>Deploy a Java Application on Kubernetes in minutes</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="/static/img/kube-activity-card.png" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">Activity</h5>
+                <p>Learn Kubernetes</p>
+                <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+            </div>
+        </div>
+    </div>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+):
+1:    <!DOCTYPE html>
+2:    <html lang="en">
+3:    <head>
+4:        <meta charset="utf-8">
+5:        <meta name="viewport" content="width=device-width, initial-scale=1">
+6:        <meta name="description" content="">
+7:            <title>Sandbox-Python (Flask)</title>
+8:    
+9:            <!-- CSS only -->
+10:        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css">
+11:    </head>
+12:    <body>
+13:        <h1 class="display-4">Welcome to Red Hat OpenShift</h1>
+14:        <p>The Developer Sandbox for Red Hat OpenShift allows you get free access to an OpenShift cluster for 30 days. Learn Kubernetes, experiment with microservics, or build a Proof of Concept for your organization.</p>
+15:        <p>Explore the following technologies and concepts using the Developer Sandbox Activities we've created:</p>
+16:                      
+17:        <div class="card-group">
+18:            <div class="card" style="width: 18rem;">
+19:                <%= image_tag "pizza-card.png", class="card-img-top" %>
+20:                <div class="card-body">
+21:                    <h5 class="card-title">Activity</h5>
+22:                    <p class="card-text">Event-Driven Architecture using Apache Kafka (with Red Hat OpenShift Streams for Apache Kafka)</p>
+23:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+24:                </div>
+25:            </div>
+26:            <div class="card" style="width: 18rem;">
+27:                <img class="card-img-top" src="/static/img/petclinic-card.png" alt="Card image cap">
+28:                <div class="card-body">
+29:                    <h5 class="card-title">Activity</h5>
+30:                    <p>Deploy a Java Application on Kubernetes in minutes</p>
+31:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+32:                </div>
+33:            </div>
+34:            <div class="card" style="width: 18rem;">
+35:                <img class="card-img-top" src="/static/img/kube-activity-card.png" alt="Card image cap">
+36:                <div class="card-body">
+37:                    <h5 class="card-title">Activity</h5>
+38:                    <p>Learn Kubernetes</p>
+39:                    <a href="https://developers.redhat.com/node/226211" class="btn btn-primary">Take me there</a>
+40:                </div>
+41:            </div>
+42:        </div>
+43:        <!-- JavaScript Bundle with Popper -->
+44:        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"></script>
+45:    </body>
+46:    </html>
+  
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+app/views/home/index.html.erb:19: syntax error, unexpected '='
+Started GET "/" for ::1 at 2022-04-26 11:11:12 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 3.6ms | Allocations: 844)
+  Rendered layout layouts/application.html.erb (Duration: 8.2ms | Allocations: 3283)
+Completed 200 OK in 12ms (Views: 10.7ms | Allocations: 4310)
+
+
+Started GET "/static/img/petclinic-card.png" for ::1 at 2022-04-26 11:11:13 -0400
+Started GET "/static/img/kube-activity-card.png" for ::1 at 2022-04-26 11:11:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/petclinic-card.png"):
+  
+  
+ActionController::RoutingError (No route matches [GET] "/static/img/kube-activity-card.png"):
+  
+Started GET "/" for ::1 at 2022-04-26 11:12:05 -0400
+Processing by HomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (Duration: 7.6ms | Allocations: 1749)
+  Rendered layout layouts/application.html.erb (Duration: 13.3ms | Allocations: 4178)
+Completed 200 OK in 17ms (Views: 15.9ms | Allocations: 5205)
+
+
