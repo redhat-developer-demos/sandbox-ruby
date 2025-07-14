@@ -1,6 +1,7 @@
 require 'sinatra'
 
+set :bind, '0.0.0.0'
+
 get '/' do
-  set :bind, '0.0.0.0'
   erb :index
 end
