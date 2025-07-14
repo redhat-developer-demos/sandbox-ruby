@@ -7,6 +7,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+sinatra
+puma
+rack
 
 BUNDLED WITH
    2.6.7
